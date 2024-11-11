@@ -1,8 +1,54 @@
 #box
-{background-color: bisque;
+{background-color:rgb(233,214,207);
 
-    border: 2px solid black;
-     width: 150px;
-     height: 150px;
+    box-sizing: border-box;
+     width:800px;
+    height:800px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    
+    
 }
 
+#box2{
+    background-color: rgba(220, 108, 94, 1);
+    border:solid;
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 600px;
+    height:auto;
+    padding:30px;
+    margin:-700px;
+    margin-right: auto;
+    margin-left:auto;
+
+    
+}
+
+
+
+#logoimg{
+   margin-top: -100px;
+    height: 150px;
+    border-radius: 200px;
+    border:solid
+}
+
+#challenge{
+    margin-top:20px;
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+font-size:20px
+}
+
+
+
+#info{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+      font-size: 38px;
+      color: rgba(0, 0, 0, 0.527);
+    
+     
+}
